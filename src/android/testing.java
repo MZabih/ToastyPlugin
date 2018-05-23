@@ -1,4 +1,4 @@
-package cordova.plugin.native.setting;
+package cordova.plugin.setting;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
