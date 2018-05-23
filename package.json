@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-testing",
+  "version": "0.0.1",
+  "description": "Testing",
+  "cordova": {
+    "id": "cordova-plugin-testing",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MZabih/ToastyPlugin.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "M Zabih",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MZabih/ToastyPlugin/issues"
+  },
+  "homepage": "https://github.com/MZabih/ToastyPlugin#readme"
+}
