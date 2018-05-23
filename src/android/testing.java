@@ -1,4 +1,4 @@
-package cordova-plugin-testing;
+package cordova.plugin.native.setting;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;

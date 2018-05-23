@@ -1,9 +1,9 @@
 {
-  "name": "cordova-plugin-testing",
+  "name": "cordova.plugin.native.setting",
   "version": "0.0.1",
-  "description": "Testing",
+  "description": "testing",
   "cordova": {
-    "id": "cordova-plugin-testing",
+    "id": "cordova-plugin-native-setting",
     "platforms": [
       "android",
       "ios"
@@ -18,7 +18,7 @@
     "cordova-android",
     "cordova-ios"
   ],
-  "author": "M Zabih",
+  "author": "MZabih",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/MZabih/ToastyPlugin/issues"
