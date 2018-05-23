@@ -1,15 +1,15 @@
-/********* testing.m Cordova Plugin Implementation *******/
+/********* cordova.plugin.testing.m Cordova Plugin Implementation *******/
 
 #import <Cordova/CDV.h>
 
-@interface testing : CDVPlugin {
+@interface cordova.plugin.testing : CDVPlugin {
   // Member variables go here.
 }
 
 - (void)coolMethod:(CDVInvokedUrlCommand*)command;
 @end
 
-@implementation testing
+@implementation cordova.plugin.testing
 
 - (void)coolMethod:(CDVInvokedUrlCommand*)command
 {

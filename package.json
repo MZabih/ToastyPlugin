@@ -1,12 +1,11 @@
 {
-  "name": "cordova.plugin.native.setting",
+  "name": "cordova.plugin.testing",
   "version": "0.0.1",
   "description": "testing",
   "cordova": {
-    "id": "cordova-plugin-native-setting",
+    "id": "cordova.plugin.testing",
     "platforms": [
-      "android",
-      "ios"
+      "android"
     ]
   },
   "repository": {
@@ -15,8 +14,7 @@
   },
   "keywords": [
     "ecosystem:cordova",
-    "cordova-android",
-    "cordova-ios"
+    "cordova-android"
   ],
   "author": "MZabih",
   "license": "ISC",
